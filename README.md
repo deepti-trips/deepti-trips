@@ -122,22 +122,21 @@
 
 ---
 
+# 🚀 Featured Projects
 
-# 🚀 Featured Repositories
+<div align="center">
 
-<p align="center">
-
-<a href="https://github.com/deepti-trips">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepti-trips&repo=Document-Classification-using-NLP&theme=tokyonight" />
+<a href="https://github.com/deepti-trips/Document-Classification-using-NLP">
+<img src="https://img.shields.io/badge/🧠_DOCUMENT_CLASSIFICATION_USING_NLP-111111?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/deepti-trips">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepti-trips&repo=Employee-Attrition-Prediction-System&theme=tokyonight" />
+<br><br>
+
+<a href="https://github.com/deepti-trips/Employee-Attrition-Prediction-System">
+<img src="https://img.shields.io/badge/🚀_EMPLOYEE_ATTRITION_PREDICTION_SYSTEM-111111?style=for-the-badge"/>
 </a>
 
-</p>
-
----
+</div>
 
 # ✍️ Random Dev Quote
 
