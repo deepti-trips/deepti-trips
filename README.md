@@ -122,15 +122,20 @@
 
 ---
 
-# 🚀 Popular Repositories
 
-| Repository | Description |
-|------------|-------------|
-| **NLP-Text-Classifier** | Text classification project using NLP and TF-IDF |
-| **Movie-Recommendation-System** | Recommendation system using ML algorithms |
-| **Sentiment-Analysis** | Sentiment prediction using NLP techniques |
-| **Spam-Detection-Model** | Email/SMS spam detection using Machine Learning |
-| **Data-Analysis-Projects** | Exploratory data analysis and visualization projects |
+# 🚀 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/deepti-trips">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepti-trips&repo=Document-Classification-using-NLP&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/deepti-trips">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepti-trips&repo=Employee-Attrition-Prediction-System&theme=tokyonight" />
+</a>
+
+</p>
 
 ---
 
